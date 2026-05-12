@@ -1,0 +1,10 @@
+Board (JIRA):
+The Board in JIRA is a visual tool that displays the current status of tasks in a workflow using columns like To Do, In Progress, and Done. 
+It is mainly used during a Sprint to monitor ongoing work, track progress, and ensure tasks are moving smoothly through different stages.
+
+Backlog (JIRA):
+The Backlog in JIRA is a prioritized list of all tasks, user stories, bugs, and requirements that are planned for future development. 
+It is used for planning and organizing work, where tasks are refined, estimated, and then selected for upcoming Sprints.
+
+Difference:
+The Board shows active work in progress during a Sprint, while the Backlog contains all upcoming and pending work that is yet to be started.

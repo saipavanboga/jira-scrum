@@ -1,0 +1,19 @@
+Descrption:
+In Agile methodology, an Epic is a large feature or goal that spans multiple tasks, while a User Story is a small, specific requirement written from the user’s perspective.
+
+Epic:
+An Epic in Agile methodology is a large body of work that represents a major feature, objective, or goal of the system.
+It usually cannot be completed in a single sprint and is therefore divided into multiple smaller units called user stories.
+Epics help teams organize and manage complex requirements at a high level and provide a clear overall vision of what needs to be built.
+
+Example: “Develop a complete online shopping application that allows users to browse, select, and purchase products.”
+=============================================
+
+User Story:
+A User Story is a small, specific requirement that describes a particular functionality from the end user’s perspective. It is simple, clear, and focused on delivering value to the user, and it can typically be completed within a single sprint. User stories follow a common format: “As a user, I want [feature] so that [benefit].”
+Example: “As a user, I want to add products to my cart so that I can purchase them later.”
+===============================================
+
+Difference:
+An Epic is large, high-level, and covers a broad functionality, whereas a User Story is small, detailed, and focuses on a single feature.
+ Epics are broken down into multiple user stories to make development easier, manageable, and more efficient within Agile sprints.

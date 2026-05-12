@@ -1,0 +1,22 @@
+Descrption:
+A Sprint is a short, fixed time period (1–4 weeks) in which the team works to complete selected tasks and deliver a usable product increment. 
+It helps teams focus on achieving a specific goal within a limited time.
+=================================
+
+
+
+Sprint in Scrum:
+A Sprint is a fixed time period (usually 1 to 4 weeks) during which a Scrum team works to complete a set of tasks or user stories from the product backlog. 
+It is a short, focused development cycle where the team plans, builds, tests, and delivers a working product increment.
+ Each Sprint has a clear goal, and at the end of the Sprint, a usable and potentially shippable product is delivered.
+ ===================================
+
+Sprint Timeline and its Importance:
+The Sprint timeline defines the structure and sequence of activities that happen during the Sprint, such as Sprint Planning, Daily Scrum meetings, Development work, Sprint Review, and Sprint Retrospective. 
+It acts like a roadmap that guides the team on what to do and when to do it within the limited time frame.
+==================================
+
+How it helps the development team:
+The Sprint timeline helps the team stay organized, focused, and disciplined by providing a clear schedule of tasks and events.
+ It improves time management, ensures continuous progress tracking through daily meetings, and helps in identifying and resolving issues quickly. 
+ It also promotes teamwork, transparency, and regular feedback, which leads to better productivity and high-quality product delivery.

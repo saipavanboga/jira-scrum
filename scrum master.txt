@@ -1,0 +1,32 @@
+Scrum Master Responsibilities:
+
+• Facilitates Scrum Events:
+The Scrum Master organizes and ensures smooth execution of meetings like Sprint Planning, Daily Scrum, Sprint Review, and Retrospective. 
+This keeps the team aligned and focused on Sprint goals.
+==============================================
+• Removes Obstacles (Impediments):
+They identify and resolve any issues or blockers that slow down the team’s progress. 
+This helps developers work without interruptions and improves productivity.
+======================================================
+
+• Supports and Guides the Team:
+The Scrum Master acts as a coach, helping team members understand and follow Agile principles and Scrum practices correctly. 
+They encourage self-organization and continuous improvement.
+============================
+
+• Ensures Process Discipline:
+They make sure the team follows Scrum rules, roles, and practices properly. 
+This maintains structure and consistency in the development process.
+==================================
+
+• Acts as a Bridge (Communication):
+The Scrum Master facilitates communication between the development team, Product Owner, and stakeholders. 
+This ensures clarity in requirements and reduces misunderstandings.
+=================================
+
+• Promotes Continuous Improvement:
+They encourage the team to learn from past Sprints through retrospectives and improve performance, quality, and efficiency in future Sprints.
+==========================================
+
+In short:
+The Scrum Master is like a team guide  who clears the road, keeps everyone moving in the right direction, and ensures the journey (Sprint) is smooth and successful.
